@@ -128,6 +128,10 @@ a {
     color: #2C3639;
 }
 
+.link {
+    color: #386ade;
+}
+
 .skills {
     background-color: #3F4E4F;
     padding-bottom: 130px;
@@ -181,11 +185,12 @@ a {
     clear: right;
     margin-top: -100px;
     padding-bottom: 65px;
+    text-align: center;
 }
 
 .outro {
-    margin-top: 30px;
-    margin-bottom: 50px;
+    margin: auto auto 40px auto;
+    width: 50%;
 }
 
 .btn {

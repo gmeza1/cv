@@ -136,7 +136,7 @@ a {
     background-color: #3F4E4F;
     padding-bottom: 130px;
     /* negative margin only needs to be used once between <div> tags to remove margin between both div's */
-    margin-bottom: -20px;
+    margin-bottom: -110px;
 }
 
 .my-skills-h2 {
@@ -180,10 +180,9 @@ a {
 
 .contact-me{
     background-color: #3F4E4F;
-    border-top: 100px;
     color: #DCD7C9;
     clear: right;
-    margin-top: -100px;
+    /* margin-top: -100px; */
     padding-bottom: 65px;
     text-align: center;
 }

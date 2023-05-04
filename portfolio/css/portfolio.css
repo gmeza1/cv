@@ -1,0 +1,37 @@
+/* 
+website color palette: #2C3639, #3F4E4F, #A27B5C, #DCD7C9
+*/
+
+/*--------------------------TAG SELECTORS--------------------------*/
+p {
+    color: #DCD7C9;
+}
+
+ul {
+    list-style: none; /*hides bullet point for unordered list*/
+}
+
+/* -------------------------CLASS SELECTORS----------------------- */
+.navigation-bar {
+    margin-bottom: -50px; /*removes white space between navigation bar and top-container div*/
+}
+
+.top-container {
+    padding-bottom: 30px;
+}
+
+.portfolio-header {
+    padding: 50px 0px 0px 0px;
+}
+
+.project-container{
+    padding: 20px 0px;
+
+}
+.project-img {
+    width: 25%;
+}
+
+
+
+/* ----------------------------ID SELECTORS----------------------- */

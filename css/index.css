@@ -1,0 +1,35 @@
+/* 
+website color palette: #2C3639, #3F4E4F, #A27B5C, #DCD7C9
+*/
+
+/*--------------------------TAG SELECTORS--------------------------*/
+
+/* -------------------------CLASS SELECTORS----------------------- */
+.top-container {
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.mountain-img {
+    border-bottom: 0px;
+    padding-bottom: 0px;
+    margin-bottom: -4px;
+}
+
+
+/* ----------------------------ID SELECTORS----------------------- */

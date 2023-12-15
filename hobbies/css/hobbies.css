@@ -28,8 +28,12 @@ ul {
     padding: 20px 0px;
 
 }
-.project-img {
-    width: 25%;
+.hobby-img {
+    width: 35%;
+}
+.text {
+    width: 50%;
+    margin: auto;
 }
 /* Container for the YouTube video */
 .youtube-container {
